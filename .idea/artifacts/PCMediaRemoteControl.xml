@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PCMediaRemoteControl">
+    <output-path>$PROJECT_DIR$/out/artifacts/PCMediaRemoteControl</output-path>
+    <root id="archive" name="PCMediaRemoteControl.jar">
+      <element id="module-output" name="PCControl" />
+    </root>
+  </artifact>
+</component>
